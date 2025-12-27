@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Welcome to Our Portfolio",
+    "subtitle": "Building amazing digital experiences"
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "description": "The page you are looking for does not exist.",
+    "goHome": "Go Home"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry"
+  }
+}
